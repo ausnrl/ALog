@@ -1,0 +1,3 @@
+include ':ALog'
+include ':app'
+rootProject.name = "Log"
